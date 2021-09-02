@@ -1,6 +1,6 @@
 # **UFO**
 
-The UFO program is another creative iteration of the classic "[Hangman](https://en.wikipedia.org/wiki/Hangman_(game))" game. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus), has been an invaluable exercise in exploring the implementation of writing functions while considering scope and flexibility.
+The UFO program is another creative iteration of the classic "[Hangman](https://en.wikipedia.org/wiki/Hangman_(game))" game where the user guesses the word before alien abducts the character. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus), has been an invaluable exercise in exploring the implementation of writing functions while considering scope and flexibility.
 
 ## Table of Contents
 
